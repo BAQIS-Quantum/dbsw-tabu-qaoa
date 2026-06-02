@@ -1,0 +1,5 @@
+# Weighted triangle Max-Cut instance.
+problem_size 3
+0 1 1.0
+1 2 1.0
+0 2 1.0

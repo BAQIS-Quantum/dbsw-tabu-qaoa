@@ -1,0 +1,11 @@
+dbsw-tabu-qaoa
+Copyright 2026 DBSW-QAOA contributors
+
+This project includes QCover/Qulacs simulator components copied from Qcover:
+
+  Qcover
+  Copyright BAQIS 2021, 2022
+  Licensed under the Apache License, Version 2.0.
+
+The original source files in D:\Google\qaoa_solve\Tabu-QAOA were not modified
+while preparing this package.

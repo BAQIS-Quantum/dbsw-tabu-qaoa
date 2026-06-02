@@ -1,0 +1,2 @@
+# Base package has no mandatory runtime dependencies.
+-e .
